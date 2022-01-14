@@ -1,0 +1,5 @@
+log.log
+labadaba2.txt
+experemental.txt
+.gitignore
+labadaba.txt
